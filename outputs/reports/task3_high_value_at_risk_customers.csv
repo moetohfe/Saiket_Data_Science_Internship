@@ -1,0 +1,417 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,PaymentMethod,TechSupport,OnlineSecurity
+8016-NCFVO,55,116.5,6382.55,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+9659-QEQSY,45,115.65,5125.5,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+6710-HSJRD,61,114.1,7132.15,Month-to-month,Fiber optic,Electronic check,Yes,No
+0771-WLCLA,16,112.95,1882.55,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+9481-IEBZY,72,112.9,8061.5,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+2587-EKXTS,44,111.5,4915.15,Month-to-month,Fiber optic,Electronic check,No,Yes
+7130-YXBRO,48,111.45,5315.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+3292-PBZEJ,11,111.4,1183.05,Month-to-month,Fiber optic,Electronic check,Yes,No
+6168-YBYNP,59,111.35,6519.75,Month-to-month,Fiber optic,Electronic check,Yes,No
+2067-QYTCF,64,111.15,6953.4,Month-to-month,Fiber optic,Electronic check,Yes,No
+6067-NGCEU,65,111.05,7107.0,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+6030-REHUX,28,110.85,3204.4,Month-to-month,Fiber optic,Electronic check,Yes,No
+1320-REHCS,52,110.75,5832.0,Month-to-month,Fiber optic,Electronic check,Yes,No
+7576-JMYWV,46,110.2,4972.1,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+2931-SVLTV,40,110.1,4469.1,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+3174-RKMOW,35,109.95,3782.4,Month-to-month,Fiber optic,Electronic check,Yes,No
+0177-PXBAT,33,109.9,3694.7,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+1656-DRSMG,63,109.85,7002.95,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+0237-YFUTL,50,109.65,5405.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+1061-PNTHC,56,109.6,5953.0,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+4176-FXYBO,54,109.55,6118.95,Month-to-month,Fiber optic,Electronic check,No,Yes
+2522-AHJXR,60,109.45,6572.85,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+9052-VKDUW,65,109.4,7227.45,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+7537-CBQUZ,63,109.4,7031.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+9278-VZKCD,52,109.1,5647.95,Month-to-month,Fiber optic,Electronic check,No,Yes
+8495-LJDFO,64,108.95,7111.3,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+9971-ZWPBF,34,108.9,3625.2,Month-to-month,Fiber optic,Electronic check,Yes,No
+3761-FLYZI,65,108.8,7082.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2144-BFDSO,50,108.75,5431.9,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+2027-WKXMW,63,108.75,6871.7,Month-to-month,Fiber optic,Electronic check,Yes,No
+1216-BGTSP,45,108.45,4964.7,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+1074-AMIOH,53,108.25,5935.1,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+1110-KYLGQ,63,108.25,6780.1,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+4329-YPDDQ,20,108.2,2203.7,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+3657-COGMW,52,108.1,5839.3,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+5760-IFJOZ,3,107.95,313.6,Month-to-month,Fiber optic,Mailed check,No,No
+2081-VEYEH,3,107.95,318.6,Month-to-month,Fiber optic,Electronic check,Yes,No
+1833-TCXKK,45,107.75,4882.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+7821-DPRQE,68,107.7,7320.9,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+0114-PEGZZ,33,107.55,3645.5,Month-to-month,Fiber optic,Electronic check,No,No
+2615-YVMYX,71,107.5,7713.55,Month-to-month,Fiber optic,Electronic check,No,Yes
+8800-ZKRFW,30,107.5,3242.5,Month-to-month,Fiber optic,Electronic check,Yes,No
+4716-HHKQH,20,107.05,2172.05,Month-to-month,Fiber optic,Electronic check,Yes,No
+9137-UIYPG,35,106.9,3756.45,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+6591-QGOYB,17,106.65,1672.1,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+4010-YLMVT,56,106.6,5893.95,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+9822-WMWVG,41,106.5,4282.4,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+8535-SFUTN,61,106.45,6300.15,Month-to-month,Fiber optic,Electronic check,No,Yes
+7048-GXDAY,39,106.4,4040.65,Month-to-month,Fiber optic,Electronic check,No,Yes
+1552-AAGRX,30,106.4,3211.9,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+5630-IXDXV,47,106.35,4849.1,Month-to-month,Fiber optic,Electronic check,No,No
+4220-TINQT,61,106.35,6751.35,Month-to-month,Fiber optic,Electronic check,Yes,No
+1548-FEHVL,61,106.2,6375.2,Month-to-month,Fiber optic,Electronic check,No,Yes
+6377-WHAOX,60,106.15,6411.25,Month-to-month,Fiber optic,Electronic check,No,No
+5804-HYIEZ,70,106.05,7554.05,Month-to-month,Fiber optic,Electronic check,No,Yes
+5647-FXOTP,60,105.9,6401.25,Month-to-month,Fiber optic,Electronic check,No,No
+1104-TNLZA,28,105.8,2998.0,Month-to-month,Fiber optic,Electronic check,Yes,No
+1421-HCERK,30,105.7,3181.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+5129-JLPIS,25,105.5,2686.05,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+5339-TJFEK,62,105.5,6487.2,Month-to-month,Fiber optic,Electronic check,No,Yes
+8677-HDZEE,56,105.45,5916.95,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+4191-XOVOM,63,105.4,6713.2,Month-to-month,Fiber optic,Electronic check,Yes,No
+5947-SGKCL,15,105.35,1559.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2697-NQBPF,34,105.35,3540.65,Month-to-month,Fiber optic,Electronic check,Yes,No
+0899-WZRSD,56,105.35,5794.45,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+8059-UDZFY,33,105.35,3465.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2133-TSRRM,34,105.35,3688.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+6734-GMPVK,5,105.3,550.6,Month-to-month,Fiber optic,Electronic check,No,No
+7145-FEJWU,12,105.3,1275.65,Month-to-month,Fiber optic,Electronic check,No,No
+6891-JPYFF,48,105.25,4997.5,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+1469-LBJQJ,66,105.2,6936.85,Month-to-month,Fiber optic,Electronic check,No,No
+9408-HRXRK,45,105.15,4730.9,Month-to-month,Fiber optic,Electronic check,No,Yes
+5118-MUEYH,48,105.1,5083.55,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+2874-YXVVA,34,105.1,3634.8,Month-to-month,Fiber optic,Electronic check,Yes,No
+5055-MGMGF,65,105.05,6914.95,Month-to-month,Fiber optic,Electronic check,No,Yes
+3197-ARFOY,19,105.0,2007.25,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+2786-GCDPI,50,104.95,5222.35,Month-to-month,Fiber optic,Electronic check,Yes,No
+3170-GWYKC,60,104.95,6236.75,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+2883-ILGWO,57,104.9,5913.95,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+4840-ORQXB,56,104.75,5841.35,Month-to-month,Fiber optic,Electronic check,No,No
+9927-DSWDF,22,104.6,2180.55,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+8552-OBVRU,48,104.5,5068.05,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+8123-QBNAZ,36,104.5,3684.95,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+8818-DOPVL,46,104.45,4863.85,Month-to-month,Fiber optic,Electronic check,No,No
+5995-SNNEW,23,104.45,2184.85,Month-to-month,Fiber optic,Electronic check,No,No
+2080-CAZNM,41,104.4,4133.95,Month-to-month,Fiber optic,Electronic check,No,No
+5956-YHHRX,21,104.35,2271.85,Month-to-month,Fiber optic,Electronic check,No,No
+2378-VTKDH,65,104.35,6578.55,Month-to-month,Fiber optic,Electronic check,No,No
+1550-EENBN,31,104.35,3205.6,Month-to-month,Fiber optic,Electronic check,No,Yes
+2360-RDGRO,65,104.25,6812.95,Month-to-month,Fiber optic,Electronic check,No,Yes
+8313-NDOIA,24,104.15,2494.65,Month-to-month,Fiber optic,Electronic check,No,No
+9168-INPSZ,44,104.15,4495.65,Month-to-month,Fiber optic,Electronic check,Yes,No
+2107-FBPTK,30,104.1,3121.1,Month-to-month,Fiber optic,Electronic check,No,No
+6353-BRMMA,54,104.1,5645.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+3384-CTMSF,47,104.1,5135.15,Month-to-month,Fiber optic,Electronic check,No,No
+3001-UNBTL,29,103.95,2964.8,Month-to-month,Fiber optic,Electronic check,No,No
+2038-LLMLM,48,103.85,4946.05,Month-to-month,Fiber optic,Electronic check,Yes,No
+7181-OQCUT,21,103.85,2215.0,Month-to-month,Fiber optic,Mailed check,No,Yes
+9919-YLNNG,42,103.8,4327.5,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+3413-DHLPB,60,103.75,5969.95,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+3005-TYFRD,55,103.65,5676.65,Month-to-month,Fiber optic,Credit card (automatic),No,No
+3932-IJWDZ,45,103.65,4747.85,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+2832-KJCRD,38,103.65,3988.5,Month-to-month,Fiber optic,Electronic check,Yes,No
+9129-UXERG,18,103.6,1806.35,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+1035-IPQPU,63,103.5,6479.4,Month-to-month,Fiber optic,Electronic check,No,No
+7426-GSWPO,64,103.5,6548.65,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+4298-OYIFC,15,103.45,1539.8,Month-to-month,Fiber optic,Electronic check,Yes,No
+2018-PZKMU,9,103.1,970.45,Month-to-month,Fiber optic,Electronic check,Yes,No
+3086-RUCRN,66,103.1,6595.0,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+4188-FRABG,57,103.05,5925.75,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+4062-HBMOS,52,103.05,5364.8,Month-to-month,Fiber optic,Electronic check,No,No
+4983-CLMLV,52,102.7,5138.1,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+3352-ALMCK,40,102.65,4108.15,Month-to-month,Fiber optic,Mailed check,No,No
+9547-ITEFG,9,102.6,897.75,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2439-LYPMQ,38,102.6,4009.2,Month-to-month,Fiber optic,Electronic check,No,No
+0365-BZUWY,17,102.55,1742.5,Month-to-month,Fiber optic,Electronic check,No,No
+7233-DRTRF,63,102.4,6444.05,Month-to-month,Fiber optic,Electronic check,No,No
+4238-JSSWH,35,102.05,3452.55,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+3629-ZNKXA,17,101.8,1752.45,Month-to-month,Fiber optic,Electronic check,No,No
+8903-WMRNW,15,101.75,1669.4,Month-to-month,Fiber optic,Electronic check,No,Yes
+5628-RKIFK,49,101.55,5070.4,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+8118-TJAFG,9,101.5,906.85,Month-to-month,Fiber optic,Electronic check,Yes,No
+1028-FFNJK,30,101.5,2917.65,Month-to-month,Fiber optic,Electronic check,Yes,No
+2692-BUCFV,29,101.45,2948.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2452-KDRRH,67,101.4,6841.05,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2603-HVKCG,31,101.4,3143.65,Month-to-month,Fiber optic,Electronic check,No,No
+4553-DVPZG,62,101.35,6164.7,Month-to-month,Fiber optic,Electronic check,No,No
+2809-ZMYOQ,32,101.35,3334.9,Month-to-month,Fiber optic,Electronic check,No,No
+6693-FRIRW,18,101.3,1794.65,Month-to-month,Fiber optic,Credit card (automatic),No,No
+7748-UMTRK,30,101.3,2974.5,Month-to-month,Fiber optic,Electronic check,Yes,No
+0147-ESWWR,39,101.25,3949.15,Month-to-month,Fiber optic,Electronic check,Yes,No
+3167-SNQPL,38,101.15,3741.85,Month-to-month,Fiber optic,Electronic check,No,No
+8378-LKJAF,38,101.15,3956.7,Month-to-month,Fiber optic,Credit card (automatic),No,No
+7901-TBKJX,56,101.05,5594.0,Month-to-month,Fiber optic,Electronic check,No,No
+2040-VZIKE,49,100.85,4847.35,Month-to-month,Fiber optic,Mailed check,No,Yes
+0899-LIIBW,34,100.85,3527.3,Month-to-month,Fiber optic,Electronic check,No,No
+4132-KALRO,4,100.85,399.25,Month-to-month,Fiber optic,Mailed check,Yes,No
+6851-WEFYX,35,100.8,3437.5,Month-to-month,Fiber optic,Electronic check,No,No
+1013-QCWAM,66,100.8,6690.75,Month-to-month,Fiber optic,Electronic check,No,No
+7587-AOVVU,27,100.75,2793.55,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+7315-WYOAW,13,100.75,1313.25,Month-to-month,Fiber optic,Electronic check,Yes,No
+9079-LWTFD,47,100.75,4669.2,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+0265-PSUAE,16,100.7,1522.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+7392-YYPYJ,22,100.65,2415.95,Month-to-month,Fiber optic,Electronic check,No,No
+8384-FZBJK,57,100.6,5611.7,Month-to-month,Fiber optic,Electronic check,No,No
+1932-UEDCX,33,100.6,3270.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+6481-ESCNL,29,100.55,2878.75,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+0434-CSFON,47,100.5,4707.1,Month-to-month,Fiber optic,Electronic check,No,No
+7714-YXSMB,26,100.5,2599.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+6116-RFVHN,34,100.45,3414.65,Month-to-month,Fiber optic,Electronic check,No,No
+4998-IKFSE,30,100.45,3096.9,Month-to-month,Fiber optic,Electronic check,No,No
+6847-KJLTS,58,100.4,5749.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+1641-RQDAY,32,100.4,3217.65,Month-to-month,Fiber optic,Electronic check,No,No
+0722-SVSFK,7,100.4,715.0,Month-to-month,Fiber optic,Electronic check,Yes,No
+1482-OXZSY,30,100.4,2936.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+2800-QQUSO,42,100.3,4222.95,Month-to-month,Fiber optic,Electronic check,Yes,No
+5816-QVHRX,37,100.3,3541.4,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+7379-FNIUJ,2,100.2,198.5,Month-to-month,Fiber optic,Electronic check,No,Yes
+9094-AZPHK,15,100.15,1415.0,Month-to-month,Fiber optic,Electronic check,No,No
+2754-SDJRD,8,100.15,908.55,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+2669-OIDSD,48,100.05,4834.0,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+1666-JXLKU,37,100.05,3810.55,Month-to-month,Fiber optic,Electronic check,No,No
+8709-KRDVL,33,100.0,3320.6,Month-to-month,Fiber optic,Electronic check,No,No
+0089-IIQKO,39,99.95,3767.4,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+4686-UXDML,21,99.85,1992.55,Month-to-month,Fiber optic,Credit card (automatic),No,No
+8785-CJSHH,60,99.8,5985.75,Month-to-month,Fiber optic,Electronic check,No,No
+8631-WUXGY,46,99.8,4391.25,Month-to-month,Fiber optic,Electronic check,No,No
+0420-HLGXF,39,99.75,4036.0,Month-to-month,Fiber optic,Electronic check,No,No
+4128-ETESU,47,99.7,4747.2,Month-to-month,Fiber optic,Electronic check,No,No
+6215-NQCPY,15,99.7,1566.75,Month-to-month,Fiber optic,Electronic check,No,Yes
+0447-RXSGD,24,99.65,2404.85,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+8468-EHYJA,57,99.65,5497.05,Month-to-month,Fiber optic,Electronic check,No,Yes
+2674-MLXMN,71,99.65,6951.15,Month-to-month,Fiber optic,Credit card (automatic),No,No
+6627-CFOSN,59,99.45,5623.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+9732-EQMWY,49,99.4,5025.0,Month-to-month,Fiber optic,Electronic check,No,No
+0487-RPVUM,61,99.4,5943.65,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+3524-WQDSG,43,99.3,4209.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+4445-ZJNMU,9,99.3,918.75,Month-to-month,Fiber optic,Credit card (automatic),No,No
+9974-JFBHQ,64,99.15,6171.2,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+2227-JRSJX,21,99.15,1956.4,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+8065-BVEPF,65,99.1,6496.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+5331-RGMTT,54,99.05,5295.7,Month-to-month,Fiber optic,Credit card (automatic),No,No
+3588-WSTTJ,35,99.05,3554.6,Month-to-month,Fiber optic,Electronic check,No,Yes
+2277-DJJDL,60,99.0,6017.9,Month-to-month,Fiber optic,Electronic check,Yes,No
+5649-RXQTV,51,99.0,5038.15,Month-to-month,Fiber optic,Electronic check,No,No
+2675-DHUTR,58,98.9,5780.7,Month-to-month,Fiber optic,Electronic check,No,No
+3312-UUMZW,32,98.85,3145.9,Month-to-month,Fiber optic,Credit card (automatic),No,No
+1751-NCDLI,46,98.85,4564.9,Month-to-month,Fiber optic,Electronic check,No,No
+6088-BXMRG,32,98.85,3089.6,Month-to-month,Fiber optic,Electronic check,No,No
+0468-YRPXN,29,98.8,2807.1,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+1427-VERSM,56,98.7,5669.5,Month-to-month,Fiber optic,Electronic check,Yes,No
+9133-AYJZG,23,98.7,2249.1,Month-to-month,Fiber optic,Credit card (automatic),No,No
+6988-CJEYV,49,98.7,4920.55,Month-to-month,Fiber optic,Electronic check,No,No
+6559-PDZLR,26,98.65,2537.0,Month-to-month,Fiber optic,Electronic check,Yes,No
+2208-UGTGR,56,98.6,5581.05,Month-to-month,Fiber optic,Electronic check,No,No
+3211-AAPKX,20,98.55,2031.95,Month-to-month,Fiber optic,Mailed check,Yes,No
+3545-CNWRG,49,98.35,4889.2,Month-to-month,Fiber optic,Electronic check,No,No
+4472-VESGY,52,98.15,4993.4,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+2665-NPTGL,26,98.1,2510.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+5312-UXESG,41,98.05,3990.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+4947-DSMXK,34,97.7,3410.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+5740-YHGTW,70,97.55,6669.05,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+6645-MXQJT,2,97.1,184.15,Month-to-month,Fiber optic,Electronic check,No,Yes
+3898-GUYTS,45,97.05,4385.05,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+3644-QXEHN,13,97.0,1334.45,Month-to-month,Fiber optic,Electronic check,No,No
+5827-MWCZK,56,96.95,5432.2,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+3323-CPBWR,23,96.9,2085.45,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+4007-NHVHI,56,96.85,5219.65,Month-to-month,Fiber optic,Electronic check,No,Yes
+9290-SHCMB,13,96.85,1235.55,Month-to-month,Fiber optic,Electronic check,No,No
+9909-IDLEK,20,96.8,1826.7,Month-to-month,Fiber optic,Mailed check,Yes,No
+0480-BIXDE,19,96.8,1743.05,Month-to-month,Fiber optic,Electronic check,No,No
+8547-NSBBO,35,96.75,3403.4,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+4194-WHFCB,59,96.65,5580.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+6635-CPNUN,28,96.6,2684.35,Month-to-month,Fiber optic,Credit card (automatic),No,No
+7813-ZGGAW,31,96.6,2877.95,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+2604-IJPDU,20,96.55,1901.65,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+4566-NECEV,5,96.55,500.1,Month-to-month,Fiber optic,Electronic check,No,No
+5937-EORGB,15,96.5,1392.25,Month-to-month,Fiber optic,Electronic check,No,Yes
+4657-FWVFY,40,96.35,3915.4,Month-to-month,Fiber optic,Credit card (automatic),No,No
+9508-ILZDG,34,96.35,3190.25,Month-to-month,Fiber optic,Electronic check,Yes,No
+4060-LDNLU,7,96.2,639.7,Month-to-month,Fiber optic,Electronic check,No,No
+6862-CQUMB,37,96.1,3646.8,Month-to-month,Fiber optic,Credit card (automatic),No,No
+9544-PYPSJ,62,96.1,6019.35,Month-to-month,Fiber optic,Credit card (automatic),No,No
+4647-MUZON,18,95.95,1745.5,Month-to-month,Fiber optic,Credit card (automatic),No,No
+9495-SKLKD,45,95.95,4456.65,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+7426-RHZGU,9,95.9,827.45,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+4989-LIXVT,68,95.9,6503.2,Month-to-month,Fiber optic,Electronic check,No,No
+6234-PFPXL,22,95.9,2234.95,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+1393-IMKZG,1,95.85,95.85,Month-to-month,Fiber optic,Electronic check,Yes,No
+0916-QOFDP,14,95.8,1346.3,Month-to-month,Fiber optic,Electronic check,No,No
+6212-ATMLK,50,95.7,4729.75,Month-to-month,Fiber optic,Electronic check,No,No
+2507-QZPQS,15,95.7,1451.1,Month-to-month,Fiber optic,Electronic check,Yes,No
+7011-CVEUC,25,95.7,2338.35,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+2279-AXJJK,52,95.65,5088.4,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+3853-LYGAM,17,95.65,1640.0,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+3320-VEOYC,14,95.6,1273.3,Month-to-month,Fiber optic,Electronic check,No,No
+3597-MVHJT,27,95.6,2595.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+4690-PKDQG,42,95.55,3930.6,Month-to-month,Fiber optic,Electronic check,No,No
+5302-BDJNT,35,95.5,3418.2,Month-to-month,Fiber optic,Electronic check,Yes,No
+0564-MUUQK,20,95.5,1916.2,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+4929-XIHVW,2,95.5,181.65,Month-to-month,Fiber optic,Credit card (automatic),No,No
+9776-OJUZI,65,95.45,6223.3,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+0701-RFGFI,49,95.4,4613.95,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+0396-YCHWO,36,95.4,3474.2,Month-to-month,Fiber optic,Electronic check,No,No
+9279-CJEOJ,21,95.4,2025.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2984-AFWNC,3,95.4,293.15,Month-to-month,Fiber optic,Electronic check,No,No
+4724-WXVWF,48,95.4,4445.3,Month-to-month,Fiber optic,Electronic check,Yes,Yes
+8755-IWJHN,69,95.35,6382.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+2386-OWURY,58,95.3,5817.7,Month-to-month,Fiber optic,Electronic check,Yes,No
+8421-WZOOW,57,95.3,5567.45,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+9793-WECQC,23,95.3,2192.9,Month-to-month,Fiber optic,Mailed check,No,No
+9921-EZKBY,33,95.3,3275.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+1960-UYCNN,10,95.25,1021.55,Month-to-month,Fiber optic,Electronic check,No,No
+2824-MYYBN,37,95.25,3314.15,Month-to-month,Fiber optic,Electronic check,No,No
+3003-CMDUU,25,95.15,2395.7,Month-to-month,Fiber optic,Electronic check,Yes,No
+5982-FPVQN,37,95.15,3532.85,Month-to-month,Fiber optic,Electronic check,No,No
+5382-SOYZL,22,95.1,2162.6,Month-to-month,Fiber optic,Electronic check,No,No
+2270-CHBFN,44,95.1,4060.55,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+5183-SNMJQ,10,95.1,865.1,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+6242-MBHPK,23,95.1,2326.05,Month-to-month,Fiber optic,Electronic check,No,Yes
+6075-SLNIL,38,95.1,3691.2,Month-to-month,Fiber optic,Credit card (automatic),No,No
+3951-NJCVI,42,95.05,3944.5,Month-to-month,Fiber optic,Electronic check,No,No
+2823-LKABH,18,95.05,1679.4,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+5119-KEPFY,36,95.0,3440.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+1194-HVAIF,27,95.0,2462.55,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2105-PHWON,33,95.0,3008.15,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+2475-MROZF,30,95.0,2852.4,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+3452-GWUIN,19,94.95,1760.25,Month-to-month,Fiber optic,Electronic check,No,No
+4391-LNRXK,22,94.95,2142.8,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+2359-KLTEK,41,94.9,3848.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+7398-SKNQZ,3,94.9,273.2,Month-to-month,Fiber optic,Electronic check,No,No
+9714-EDSUC,4,94.9,360.55,Month-to-month,Fiber optic,Mailed check,Yes,Yes
+5150-ITWWB,3,94.85,335.75,Month-to-month,Fiber optic,Electronic check,No,No
+7225-CBZPL,17,94.8,1563.9,Month-to-month,Fiber optic,Electronic check,No,No
+7982-VCELR,36,94.8,3565.65,Month-to-month,Fiber optic,Credit card (automatic),No,No
+0060-FUALY,59,94.75,5597.65,Month-to-month,Fiber optic,Electronic check,No,Yes
+6350-XFYGW,4,94.75,422.4,Month-to-month,Fiber optic,Electronic check,No,No
+5168-MSWXT,8,94.75,759.55,Month-to-month,Fiber optic,Electronic check,No,No
+3096-GKWEB,18,94.75,1691.9,Month-to-month,Fiber optic,Electronic check,No,No
+5144-TVGLP,38,94.75,3653.0,Month-to-month,Fiber optic,Electronic check,No,No
+1472-TNCWL,36,94.7,3512.5,Month-to-month,Fiber optic,Electronic check,No,No
+0848-ZGQIJ,16,94.65,1461.15,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+6173-GOLSU,67,94.65,6079.0,Month-to-month,Fiber optic,Credit card (automatic),No,No
+0129-KPTWJ,72,94.65,6747.35,Month-to-month,Fiber optic,Electronic check,No,No
+6583-KQJLK,15,94.65,1285.05,Month-to-month,Fiber optic,Electronic check,No,No
+9058-MJLZC,24,94.6,2283.15,Month-to-month,Fiber optic,Electronic check,No,Yes
+4070-OKWVH,52,94.6,5025.8,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+3338-CVVEH,12,94.55,1173.55,Month-to-month,Fiber optic,Electronic check,No,No
+5439-WIKXB,41,94.55,3851.45,Month-to-month,Fiber optic,Electronic check,No,No
+6522-YRBXD,35,94.55,3365.4,Month-to-month,Fiber optic,Electronic check,No,Yes
+5899-OUVKV,31,94.5,2979.2,Month-to-month,Fiber optic,Electronic check,No,No
+9699-UBQFS,43,94.5,4156.8,Month-to-month,Fiber optic,Electronic check,No,Yes
+7271-AJDTL,55,94.45,5073.1,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2267-FPIMA,50,94.4,4914.9,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+9058-HRZSV,65,94.4,6126.15,Month-to-month,Fiber optic,Electronic check,No,Yes
+2347-WKKAE,42,94.4,4014.6,Month-to-month,Fiber optic,Electronic check,No,Yes
+5274-XHAKY,41,94.3,3893.6,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+9919-KNPOO,21,94.3,1948.35,Month-to-month,Fiber optic,Electronic check,No,No
+0730-KOAVE,30,94.3,2679.7,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+5461-QKNTN,43,94.3,3953.15,Month-to-month,Fiber optic,Electronic check,Yes,No
+1728-CXQBE,64,94.25,6081.4,Month-to-month,Fiber optic,Electronic check,No,No
+5935-FCCNB,17,94.2,1608.15,Month-to-month,Fiber optic,Electronic check,No,No
+9093-FPDLG,11,94.2,999.9,Month-to-month,Fiber optic,Electronic check,Yes,No
+7789-CRUVC,61,94.2,5895.45,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+0082-OQIQY,29,94.2,2607.6,Month-to-month,Fiber optic,Electronic check,Yes,No
+1346-PJWTK,61,94.15,5731.85,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+9360-OMDZZ,24,94.1,2322.85,Month-to-month,Fiber optic,Electronic check,No,No
+4760-THGOT,43,94.1,4107.3,Month-to-month,Fiber optic,Electronic check,No,Yes
+8161-QYMTT,7,94.1,701.3,Month-to-month,Fiber optic,Electronic check,No,No
+5334-JLAXU,60,94.1,5475.9,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+6137-NICCO,6,94.05,518.75,Month-to-month,Fiber optic,Mailed check,No,No
+8087-LGYHQ,9,94.05,811.65,Month-to-month,Fiber optic,Electronic check,No,No
+6833-JMZYP,15,94.0,1505.45,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2267-WTPYD,57,94.0,5438.95,Month-to-month,Fiber optic,Credit card (automatic),No,No
+0111-KLBQG,32,93.95,2861.45,Month-to-month,Fiber optic,Mailed check,No,No
+7268-IGMFD,18,93.9,1743.9,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+1608-GMEWB,45,93.9,4200.25,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+5002-GCQFH,49,93.85,4733.1,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+7852-LECYP,13,93.8,1261.0,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+3062-ICYZQ,51,93.8,4539.35,Month-to-month,Fiber optic,Electronic check,No,Yes
+7402-EYFXX,26,93.6,2404.1,Month-to-month,Fiber optic,Electronic check,No,No
+0376-OIWME,36,93.6,3366.05,Month-to-month,Fiber optic,Electronic check,No,Yes
+0674-DGMAQ,32,93.5,2970.8,Month-to-month,Fiber optic,Electronic check,No,No
+3316-UWXUY,50,93.5,4747.5,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+2985-FMWYF,23,93.5,2341.55,Month-to-month,Fiber optic,Electronic check,No,No
+6578-KRMAW,32,93.4,2979.3,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+1685-BQULA,40,93.4,3756.4,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+7422-WNBTY,33,93.35,3092.0,Month-to-month,Fiber optic,Electronic check,No,No
+6300-BWMJX,59,93.35,5386.5,Month-to-month,Fiber optic,Electronic check,Yes,No
+3144-KMTWZ,71,93.25,6669.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+4250-WAROZ,60,93.25,5774.55,Month-to-month,Fiber optic,Electronic check,No,Yes
+1485-YDHMM,52,93.25,4631.7,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,No
+5482-VXSXJ,22,93.2,2157.3,Month-to-month,Fiber optic,Mailed check,No,No
+5141-ZUVBH,9,93.0,870.25,Month-to-month,Fiber optic,Bank transfer (automatic),Yes,Yes
+2371-JQHZZ,24,93.0,2248.05,Month-to-month,Fiber optic,Electronic check,No,No
+7483-IQWIB,37,92.95,3415.25,Month-to-month,Fiber optic,Electronic check,No,No
+0943-ZQPXH,44,92.95,4122.9,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+6986-IXNDM,14,92.9,1337.45,Month-to-month,Fiber optic,Electronic check,No,No
+1930-WNXSB,58,92.85,5305.05,Month-to-month,Fiber optic,Electronic check,No,No
+2074-GUHPQ,17,92.7,1556.85,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+6198-RTPMF,17,92.6,1579.7,Month-to-month,Fiber optic,Electronic check,No,No
+5977-CKHON,43,92.55,4039.0,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+7668-XCFYV,17,92.55,1614.7,Month-to-month,Fiber optic,Electronic check,No,No
+3162-ZJZFU,53,92.55,4779.45,Month-to-month,Fiber optic,Electronic check,Yes,No
+3466-RITXD,26,92.4,2349.8,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+4879-GZLFH,42,92.15,3875.4,Month-to-month,Fiber optic,Electronic check,No,No
+3318-NMQXL,3,92.0,266.8,Month-to-month,Fiber optic,Electronic check,No,No
+2974-GGUXS,36,91.95,3301.05,Month-to-month,Fiber optic,Credit card (automatic),No,No
+0595-ITUDF,64,91.8,5960.5,Month-to-month,Fiber optic,Electronic check,No,Yes
+3717-LNXKW,38,91.7,3479.05,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+5712-AHQNN,43,91.65,3954.1,Month-to-month,Fiber optic,Electronic check,No,No
+0093-EXYQL,40,91.55,3673.6,Month-to-month,Fiber optic,Electronic check,No,No
+4001-TSBTV,58,91.55,5511.65,Month-to-month,Fiber optic,Electronic check,No,No
+4583-PARNH,16,91.55,1540.05,Month-to-month,Fiber optic,Electronic check,Yes,No
+9402-ORRAH,15,91.5,1400.3,Month-to-month,Fiber optic,Electronic check,No,No
+6745-JEFZB,35,91.5,3236.35,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+4927-WWOOZ,2,91.45,171.45,Month-to-month,Fiber optic,Electronic check,No,No
+9904-EHEVJ,32,91.35,2896.55,Month-to-month,Fiber optic,Mailed check,No,No
+8849-AYPTR,33,91.25,2964.05,Month-to-month,Fiber optic,Electronic check,No,No
+0365-TRTPY,37,91.2,3382.3,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+9576-SYUHJ,37,91.15,3369.25,Month-to-month,Fiber optic,Electronic check,No,Yes
+5091-HFAZW,2,91.15,168.5,Month-to-month,Fiber optic,Electronic check,No,Yes
+6818-DJXAA,10,91.1,964.35,Month-to-month,Fiber optic,Electronic check,Yes,No
+2573-GYRUU,48,91.05,4370.75,Month-to-month,Fiber optic,Credit card (automatic),No,No
+5222-IMUKT,32,91.05,2871.5,Month-to-month,Fiber optic,Electronic check,No,No
+5213-TWWJU,28,91.0,2626.15,Month-to-month,Fiber optic,Electronic check,Yes,No
+1379-FRVEB,15,91.0,1430.05,Month-to-month,Fiber optic,Electronic check,No,No
+2378-HTWFW,35,91.0,3180.5,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+8189-XRIKE,32,90.95,2897.95,Month-to-month,Fiber optic,Electronic check,No,No
+8563-OYMQY,17,90.95,1612.2,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2988-GBIVW,70,90.85,6470.1,Month-to-month,Fiber optic,Electronic check,No,Yes
+8189-HBVRW,53,90.8,4921.2,Month-to-month,Fiber optic,Electronic check,No,Yes
+0112-QAWRZ,16,90.8,1442.2,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+4137-BTIKL,2,90.75,174.75,Month-to-month,Fiber optic,Mailed check,No,Yes
+8622-ZLFKO,6,90.75,512.25,Month-to-month,Fiber optic,Electronic check,No,No
+0432-CAJZV,3,90.7,237.65,Month-to-month,Fiber optic,Mailed check,No,No
+9281-OFDMF,39,90.7,3413.25,Month-to-month,Fiber optic,Electronic check,No,No
+0577-WHMEV,16,90.7,1374.9,Month-to-month,Fiber optic,Electronic check,No,Yes
+3771-PZOBW,20,90.7,1781.35,Month-to-month,Fiber optic,Credit card (automatic),No,No
+6794-HKIAJ,62,90.7,5586.45,Month-to-month,Fiber optic,Bank transfer (automatic),No,Yes
+5692-ICXLW,31,90.7,2845.15,Month-to-month,Fiber optic,Electronic check,No,No
+5339-PXDVH,4,90.65,367.95,Month-to-month,Fiber optic,Electronic check,No,Yes
+2495-KZNFB,33,90.65,2989.6,Month-to-month,Fiber optic,Electronic check,No,Yes
+6908-VVYHM,65,90.65,5931.0,Month-to-month,Fiber optic,Electronic check,No,No
+7928-VJYAB,11,90.6,1020.2,Month-to-month,Fiber optic,Electronic check,No,No
+1020-JPQOW,56,90.55,5116.6,Month-to-month,Fiber optic,Electronic check,Yes,No
+5325-UWTWJ,31,90.55,2929.75,Month-to-month,Fiber optic,Credit card (automatic),Yes,Yes
+6741-EGCBI,30,90.5,2595.85,Month-to-month,Fiber optic,Credit card (automatic),No,Yes
+4918-FYJNT,55,90.45,5044.8,Month-to-month,Fiber optic,Electronic check,Yes,No
+6507-ZJSUR,23,90.45,2117.25,Month-to-month,Fiber optic,Electronic check,No,No
+7449-HVPIV,55,90.4,5099.15,Month-to-month,Fiber optic,Credit card (automatic),No,No
+0258-NOKBL,3,90.4,268.45,Month-to-month,Fiber optic,Electronic check,No,No
+8782-LKFPK,44,90.4,4063.0,Month-to-month,Fiber optic,Mailed check,No,No
+8266-VBFQL,4,90.4,356.65,Month-to-month,Fiber optic,Electronic check,Yes,No
+5131-PONJI,49,90.4,4494.65,Month-to-month,Fiber optic,Credit card (automatic),No,No
+8212-DJRCH,5,90.35,434.5,Month-to-month,Fiber optic,Mailed check,No,Yes
+9469-WEJBT,37,90.35,3419.3,Month-to-month,Fiber optic,Electronic check,Yes,No
+0139-IVFJG,2,90.35,190.5,Month-to-month,Fiber optic,Electronic check,No,Yes
+8012-SOUDQ,43,90.25,3838.75,Month-to-month,Fiber optic,Electronic check,No,No
+4813-HQMGZ,8,90.25,743.75,Month-to-month,Fiber optic,Electronic check,Yes,No
+1173-NOEYG,27,90.15,2423.4,Month-to-month,Fiber optic,Bank transfer (automatic),No,No
+9921-QFQUL,23,90.15,2044.95,Month-to-month,Fiber optic,Mailed check,No,No
+6969-MVBAI,9,90.1,816.8,Month-to-month,Fiber optic,Electronic check,No,No
+1941-HOSAM,1,90.1,90.1,Month-to-month,Fiber optic,Electronic check,No,No
+3154-CFSZG,47,90.05,4137.2,Month-to-month,Fiber optic,Electronic check,No,Yes
+4183-MYFRB,21,90.05,1862.9,Month-to-month,Fiber optic,Electronic check,No,No
+8058-DMYRU,54,90.05,4931.8,Month-to-month,Fiber optic,Electronic check,No,No
+6267-DCFFZ,30,90.05,2627.2,Month-to-month,Fiber optic,Electronic check,No,No
+3161-GETRM,34,90.05,3097.0,Month-to-month,Fiber optic,Credit card (automatic),No,No
+2207-QPJED,37,90.0,3371.75,Month-to-month,Fiber optic,Electronic check,Yes,No
+2322-VCZHZ,23,90.0,2024.1,Month-to-month,Fiber optic,Electronic check,No,Yes
+2139-FQHLM,19,89.95,1682.4,Month-to-month,Fiber optic,Mailed check,Yes,No
+1302-UHBDD,20,89.95,1648.45,Month-to-month,Fiber optic,Electronic check,No,No
+8751-EDEKA,28,89.9,2433.5,Month-to-month,Fiber optic,Credit card (automatic),No,No
+4811-JBUVU,30,89.9,2723.15,Month-to-month,Fiber optic,Credit card (automatic),Yes,No
+1215-FIGMP,60,89.9,5450.7,Month-to-month,Fiber optic,Bank transfer (automatic),No,No

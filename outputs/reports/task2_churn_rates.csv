@@ -1,0 +1,19 @@
+,,customers,churn_rate,share_of_customers
+gender,Female,3488,26.9,49.5
+gender,Male,3555,26.2,50.5
+Partner,No,3641,33.0,51.7
+Partner,Yes,3402,19.7,48.3
+Dependents,No,4933,31.3,70.0
+Dependents,Yes,2110,15.5,30.0
+SeniorCitizen,Yes,1142,41.7,16.2
+SeniorCitizen,No,5901,23.6,83.8
+Contract,Month-to-month,3875,42.7,55.0
+Contract,One year,1473,11.3,20.9
+Contract,Two year,1695,2.8,24.1
+PaymentMethod,Electronic check,2365,45.3,33.6
+PaymentMethod,Mailed check,1612,19.1,22.9
+PaymentMethod,Bank transfer (automatic),1544,16.7,21.9
+PaymentMethod,Credit card (automatic),1522,15.2,21.6
+InternetService,Fiber optic,3096,41.9,44.0
+InternetService,DSL,2421,19.0,34.4
+InternetService,No,1526,7.4,21.7

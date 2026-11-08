@@ -1,0 +1,22 @@
+,dtype,unique_values,example
+customerID,object,7043,7590-VHVEG
+gender,object,2,Female
+SeniorCitizen,object,2,No
+Partner,object,2,Yes
+Dependents,object,2,No
+tenure,int64,73,1
+PhoneService,object,2,No
+MultipleLines,object,3,No phone service
+InternetService,object,3,DSL
+OnlineSecurity,object,3,No
+OnlineBackup,object,3,Yes
+DeviceProtection,object,3,No
+TechSupport,object,3,No
+StreamingTV,object,3,No
+StreamingMovies,object,3,No
+Contract,object,3,Month-to-month
+PaperlessBilling,object,2,Yes
+PaymentMethod,object,4,Electronic check
+MonthlyCharges,float64,1585,29.85
+TotalCharges,float64,6531,29.85
+Churn,object,2,No

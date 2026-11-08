@@ -1,0 +1,5 @@
+recommendation,action,evidence,customers_targeted,assumed_uptake,churn_now_%,churn_comparison_%,customers_retained,revenue_retained_$,incentive_cost_$,net_impact_$
+1. Contract upgrade offer,Offer month-to-month customers a $5/month discount to move to a 1-year contract.,Month-to-month churn is 42.7% vs 11.3% on 1-year contracts; contract type is a top-2 model driver.,3875,0.2,42.7,11.3,122,97072,46500,50572
+2. Auto-pay migration,Give electronic-check payers a $2/month credit for switching to automatic card or bank payment.,Electronic-check churn is 45.3% vs 16.0% for automatic payments.,2365,0.3,45.3,16.0,104,95126,17028,78098
+3. Fiber 'Security & Support' bundle,Include Online Security + Tech Support free for 6 months for fiber customers who have neither.,Fiber customers without security/support churn at 55.0% vs 24.5% with at least one.,1765,0.25,55.0,24.5,67,69572,13238,56334
+4. First-year onboarding program,"Welcome calls, a 30/60/90-day check-in and early issue resolution for every new customer.",Customers in their first year churn at 47.4% vs 28.7% in year two; tenure is the #1 model driver.,2186,1.0,47.4,28.7,205,137791,26232,111559
